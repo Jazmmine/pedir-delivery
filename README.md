@@ -12,17 +12,17 @@ El usuario desea pedir comida por telefóno para saciar su hambre.
   7. No -- Colgar telefóno.
   8. Regresar al punto 2.
 6. ¿Contesta?
-7. Si -- ¿Tiene mi plato?
+  7. Si -- ¿Tiene mi plato?
     8. No -- ¿Tiene otra opción?
       9. No -- Colgar telefóno.
       10. Regresar al punto 2.
-    8. No -- ¿Tiene otra opción?
-      9. Si -- Entregar datos.
+  8. Si -- ¿Tiene otra opción?
+    9. Si -- Entregar datos.
 7. Si -- ¿Tiene mi plato?
-    8. Si -- Entregar datos.
-    9. Confirmar pedido.
-    10. Entregar pedido.
-    11. FIN
+8. Si -- Entregar datos.
+9. Confirmar pedido.
+10. Entregar pedido.
+11. FIN
 
 ###FLUJOGRAMA:
 
